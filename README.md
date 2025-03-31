@@ -47,34 +47,44 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 ## ■  소개 👪
 
+## ■ 팀원 정보
+
 <table>
   <tr>
-    <td align="center">
-      <img src="C:\project\finfit\static\images\image" alt="Team Member 1" width="120"><br>
-      <strong>팀원 1 이름</strong><br>
-      역할: 개발자
+    <!-- 1번: 이한세 (Michael) -->
+    <td align="center" valign="top" style="padding:10px;">
+      <img src="static/images/image.png" width="100" style="border-radius:50%;"><br><br>
+      <strong>이한세 (Michael)</strong><br>
+      <em># Squat Analysis</em><br>
+      <a href="mailto:hslee7087@gmail.com">hslee7087@gmail.com</a>
     </td>
-    <td align="center">
-      <img src="C:\project\finfit\static\images\image1" alt="Team Member 2" width="120"><br>
-      <strong>팀원 2 이름</strong><br>
-      역할: 디자이너
+    <!-- 2번: 김미경 (Mia) -->
+    <td align="center" valign="top" style="padding:10px;">
+      <img src="static/images/image1.png" width="100" style="border-radius:50%;"><br><br>
+      <strong>김미경 (Mia)</strong><br>
+      <em># Body Analysis & Exercise Tips</em><br>
+      <a href="mailto:fork07140812@gmail.com">fork07140812@gmail.com</a>
     </td>
-    <td align="center">
-      <img src="C:\project\finfit\static\images\image3" alt="Team Member 3" width="120"><br>
-      <strong>팀원 3 이름</strong><br>
-      역할: 기획자
+    <!-- 3번: 이준혁 (Simon) -->
+    <td align="center" valign="top" style="padding:10px;">
+      <img src="static/images/image3.png" width="100" style="border-radius:50%;"><br><br>
+      <strong>이준혁 (Simon)</strong><br>
+      <em># AI Disease Prediction</em><br>
+      <a href="mailto:arsey99999@gmail.com">arsey99999@gmail.com</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="C:\project\finfit\static\images\image5" alt="Team Member 4" width="120"><br>
-      <strong>팀원 4 이름</strong><br>
-      역할: QA
+    <!-- 4번: 하연우 (Woo) -->
+    <td align="center" valign="top" style="padding:10px;">
+      <img src="static/images/image5.png" width="100" style="border-radius:50%;"><br><br>
+      <strong>하연우 (Woo)</strong><br>
+      <em># Depression Prediction</em><br>
+      <a href="mailto:woo565696@gmail.com">woo565696@gmail.com</a>
     </td>
-    <td align="center">
-      <img src="C:\project\finfit\static\images\image4" alt="Team Member 5" width="120"><br>
-      <strong>팀원 5 이름</strong><br>
-      역할: 데이터 분석가
+    <!-- 5번: 이기성 (Bradley) -->
+    <td align="center" valign="top" style="padding:10px;">
+      <img src="static/images/image4.png" width="100" style="border-radius:50%;"><br><br>
+      <strong>이기성 (Bradley)</strong><br>
+      <em># Hospital Recommendations</em><br>
+      <a href="mailto:leegisung778899@gmail.com">leegisung778899@gmail.com</a>
     </td>
   </tr>
 </table>

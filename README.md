@@ -1,4 +1,5 @@
-# FinFit - 개인 맞춤형 헬스케어 서비스 
+# FinFit - 개인 맞춤형 헬스케어 서비스 ![image](https://github.com/user-attachments/assets/9784fa70-077e-48a6-9588-370ef013268d)
+
 
 FinFit은 건강검진 데이터를 기반으로 질병 예측, 체형 분석, 운동 추천, 병원 매칭, 우울증 예측 등 다양한 건강 서비스를 통합 제공하는 Flask 기반 웹 애플리케이션입니다.
 

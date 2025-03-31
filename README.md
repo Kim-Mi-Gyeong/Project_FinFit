@@ -1,98 +1,89 @@
-<body>
+# FinFit - 개인 맞춤형 스마트 헬스케어 시스템
 
-  <h1>FinFit - 개인 맞춤형 스마트 헬스케어 시스템</h1>
+FinFit은 건강검진 데이터를 기반으로 질병 예측, 체형 분석, 운동 추천, 병원 매칭, 우울증 예측 등 다양한 건강 서비스를 통합 제공하는 Flask 기반 웹 애플리케이션입니다.
 
-  <section>
-    <h2>1. 서비스 소개 (개요)</h2>
-    <p>
-      FinFit은 건강검진 데이터를 기반으로 질병 예측, 체형 분석, 운동 추천, 병원 매칭, 우울증 예측 등 다양한 건강 서비스를 통합 제공하는 Flask 기반 웹 애플리케이션입니다.
-    </p>
-  </section>
+---
 
-  <section>
-    <h2>2. 주요 기능 및 담당 업무</h2>
-    <table>
-      <tr>
-        <th>기능</th>
-        <th>설명</th>
-        <th>담당자</th>
-      </tr>
-      <tr>
-        <td>질병 예측</td>
-        <td>건강정보 기반 당뇨/고혈압/고지혈증 예측 및 시각화</td>
-        <td>전체</td>
-      </tr>
-      <tr>
-        <td>병원 추천</td>
-        <td>예측 결과 기반 지역 병원 추천</td>
-        <td>전체</td>
-      </tr>
-      <tr>
-        <td>우울증 예측</td>
-        <td>PHQ-9 설문 기반 우울 단계 예측</td>
-        <td>전체</td>
-      </tr>
-      <tr>
-        <td>체형 분석 및 운동 추천</td>
-        <td>BMI 기반 체형 예측 + 운동 영상 추천</td>
-        <td>Mia</td>
-      </tr>
-      <tr>
-        <td>운동 자세 교정</td>
-        <td>Webcam 기반 실시간 스쿼트 자세 분석</td>
-        <td>Michael</td>
-      </tr>
-      <tr>
-        <td>챗봇 (Fit봇)</td>
-        <td>페이지별 기능 설명 및 사용자 가이드</td>
-        <td>전체</td>
-      </tr>
-    </table>
-  </section>
+## 목차
+1. 소개  
+2. 프로젝트 진행 관리  
+3. 사용 기술 스택  
+4. 화면 구성  
+5. 데이터 흐름도 및 사용자 흐름도  
+6. 아키텍처  
+7. How to Test  
 
-  <section>
-    <h2>3. 프로젝트 목표</h2>
-    <ul>
-      <li>AI 기반 건강 예측 및 분석 시스템 구현</li>
-      <li>운동 영상 추천 + 자세 분석 기능 통합</li>
-      <li>지역 기반 병원 매칭 기능 연계</li>
-      <li>챗봇을 통한 사용자 친화적 UX 제공</li>
-    </ul>
-  </section>
+---
 
-  <section>
-    <h2>4. 프로젝트 진행 관리</h2>
-    <ul>
-      <li>관리 툴: Notion + GitHub Projects</li>
-      <li>브랜치 전략: <code>main</code>, <code>develop</code>, <code>feature/*</code></li>
-      <li>일정: 기능 단위 마일스톤 + 주간 회고</li>
-    </ul>
-  </section>
+## 1. 소개
 
-  <section>
-    <h2>5. 스킬 앤 툴스</h2>
-    <ul>
-      <li><strong>Frontend:</strong> HTML, CSS, Bootstrap, JavaScript, Jinja2</li>
-      <li><strong>Backend:</strong> Python, Flask, Flask-Restful</li>
-      <li><strong>AI/ML:</strong> Scikit-learn, XGBoost, LightGBM, CatBoost</li>
-      <li><strong>시각화:</strong> Matplotlib, Plotly, conic-gradient</li>
-      <li><strong>기타:</strong> OpenCV, Mediapipe, Naver Map API, Web Speech API</li>
-    </ul>
-  </section>
+- 건강 데이터를 입력하면 체형 분석, 질병 예측, 운동 추천, 우울증 분석, 병원 추천을 받을 수 있는 AI 통합 헬스케어 시스템
+- 챗봇(Fit봇)을 통해 각 기능에 대한 설명 및 추천까지 함께 제공
+- 사용자 맞춤형 시각화 및 건강 개선 방향 제공
 
-  <section>
-    <h2>6. 데이터 흐름도 / 사용자 흐름도</h2>
-    <ul>
-      <li>사용자 정보 입력 → BMI 계산 → 질병/우울증 예측 → 운동/병원 추천</li>
-      <li>예측 결과 → 시각화 및 챗봇 안내 → 맞춤형 건강 루틴 제공</li>
-    </ul>
-  </section>
+---
 
-  <section>
-    <h2>7. 계층 구조 (Flask 기반)</h2>
-    <pre>
-FinFit/
-├── templates/
-│   ├── main.html, exercise.html, ...
-├── static/
-│   └── css,
+## 2. 프로젝트 진행 관리
+
+- 일정 관리: Notion
+- 협업 도구: GitHub Projects
+- 브랜치 전략: `main`, `develop`, `feature/*`
+
+---
+
+## 3. 사용 기술 스택
+
+### ▪ Environment
+- VS Code
+- Git / GitHub
+- Jupyter Notebook
+
+### ▪ Frontend
+- HTML5, CSS3, Bootstrap 5
+- JavaScript (Jinja2)
+- Plotly.js, Chart.js
+- AJAX (jQuery)
+
+### ▪ Backend
+- Python, Flask, Flask-Restful
+
+### ▪ AI / ML
+- Scikit-learn, XGBoost, LightGBM, CatBoost
+- Pandas, NumPy, Matplotlib
+- conic-gradient, Mediapipe, OpenCV
+- Web Speech API (TTS), Naver Map API
+
+---
+
+## 4. 화면 구성
+
+| 페이지 | 설명 |
+|--------|------|
+| 메인 페이지 | 전체 기능 소개 및 바로가기 버튼 |
+| 건강 정보 입력 | 사용자 키, 몸무게, 혈압 등 입력 폼 |
+| 체형 분석 & 운동 추천 | BMI 기반 체형 예측 결과 및 운동 영상 추천 |
+| 질병 예측 & 병원 추천 | 질병 분류 결과 및 지역 병원 리스트 제공 |
+| 우울증 예측 | PHQ-9 설문 + 수면 시간 분석 |
+| 챗봇(Fit봇) | 페이지별 안내 및 사용자 응대 |
+
+---
+
+## 5. 데이터 흐름도 및 사용자 흐름도
+
+### ▪ 사용자 흐름
+
+1. 건강정보 입력  
+2. 체형 분석 및 질병 예측  
+3. 결과 기반 운동/병원 추천 or 우울증 분석  
+4. Fit봇의 피드백 및 추가 정보 제공
+
+### ▪ 데이터 흐름
+
+- 사용자 입력 → 전처리 → 모델 예측 → 결과 분석 및 시각화 → 서비스 제공
+
+---
+
+## 6. 아키텍처
+
+### ▪ Directory 구조
+

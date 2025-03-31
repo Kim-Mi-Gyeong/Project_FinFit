@@ -25,11 +25,8 @@ FinFit은 건강검진 데이터를 기반으로 질병 예측, 체형 분석, �
 
 ## 2. 프로젝트 진행 관리
 
-- 일정 관리: Notion
-- 협업 도구: GitHub Projects
-- 브랜치 전략: `main`, `develop`, `feature/*`
+![image](https://github.com/user-attachments/assets/41aa591b-db59-45ac-8c1e-c5506a816ad1)
 
----
 
 ## 3. 사용 기술 스택
 

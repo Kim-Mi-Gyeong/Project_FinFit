@@ -1,3 +1,5 @@
+<small>
+
 # ■ FinFit - 개인 맞춤형 헬스케어 서비스 💪
 
 FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자의 건강 상태를 정밀 분석하고 맞춤형 솔루션을 제공하는 스마트 헬스케어 서비스를 제공합니다. 또한, 바쁜 현대인을 위해 생활 습관 개선부터 병원 연계까지 체계적인 건강 관리 시스템을 제공하여, 누구나 쉽게 건강을 유지하고 더 나은 미래를 준비할 수 있도록 지원합니다. <br>
@@ -30,7 +32,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 </table>
 <br>
 
-
 ## ■ 목차 📚
 1. 소개  
 2. 프로젝트 진행 관리  
@@ -40,11 +41,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 6. 아키텍처  
 7. How to Test
 
-
 <br>
-
-
-
 
 ## ■  소개 👪
 
@@ -52,14 +49,11 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 - 챗봇(Fit봇)을 통해 각 기능에 대한 설명 및 추천까지 함께 제공
 - 사용자 맞춤형 시각화 및 건강 개선 방향 제공
 
-
 <br>
-
 
 ## ■  프로젝트 진행 관리 📊
 
 ![image](https://github.com/user-attachments/assets/7a16587a-5eb2-4be4-bfa9-fa67d59f96f1)
-
 
 ## ■ Stacks 🛠️
 
@@ -101,11 +95,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
-
 <br>
-
-
-
 
 ## ■  주요 기능 및 담당 업무 🤖 
 
@@ -118,11 +108,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 | 운동 자세 교정         | - 사용자의 실시간 웹캠 영상에서 **Mediapipe pose detection 모델**로 관절 좌표를 추출하고, 무릎-발끝 정렬, 각도 계산 등 기준에 따라 스쿼트 정확도를 분석 <br> - 동작 오류 발생 시 **Gemini 피드백**과 **TTS 음성 안내**를 제공 | Michael |
 | 챗봇 (Fit봇)           | - 페이지별로 등록된 **키워드 기반 응답 사전**(page_responses)을 우선 활용하며, 해당 키워드가 없을 경우 **Gemini API**(gemini-1.5-flash)를 호출해 페이지 맥락에 맞는 실시간 LLM 응답을 생성 <br> - 핵심만 간결하게 설명하는 프롬프트 설계로 사용자 피로도를 줄이고 기능/결과 해석/건강 가이드를 실시간 제공 | Simon, Bradley |
 
-
-
 <br>
-
-
 
 ## ■  사용자 및 데이터 흐름도 🔄
 
@@ -135,4 +121,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ## ■  아키텍처
 
 ### ▪ Directory 구조
+
+</small>
 

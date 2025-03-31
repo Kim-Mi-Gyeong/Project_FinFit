@@ -22,7 +22,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 - 챗봇(Fit봇)을 통해 각 기능에 대한 설명 및 추천까지 함께 제공
 - 사용자 맞춤형 시각화 및 건강 개선 방향 제공
 
----
+
 
 ## ■  프로젝트 진행 관리 📊
 
@@ -77,8 +77,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
-
----
 
 ## ■  주요 기능 및 담당 업무
 

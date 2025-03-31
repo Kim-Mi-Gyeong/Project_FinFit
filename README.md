@@ -47,41 +47,34 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 ## ■  소개 👪
 
-## ■ 팀원 정보
-
 <table>
   <tr>
     <td align="center">
-      <img src="path/to/team_member1.png" alt="Team Member 1" width="120"><br>
+      <img src="C:\project\finfit\static\images\image" alt="Team Member 1" width="120"><br>
       <strong>팀원 1 이름</strong><br>
       역할: 개발자
     </td>
     <td align="center">
-      <img src="path/to/team_member2.png" alt="Team Member 2" width="120"><br>
+      <img src="C:\project\finfit\static\images\image1" alt="Team Member 2" width="120"><br>
       <strong>팀원 2 이름</strong><br>
       역할: 디자이너
     </td>
     <td align="center">
-      <img src="path/to/team_member3.png" alt="Team Member 3" width="120"><br>
+      <img src="C:\project\finfit\static\images\image3" alt="Team Member 3" width="120"><br>
       <strong>팀원 3 이름</strong><br>
       역할: 기획자
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="path/to/team_member4.png" alt="Team Member 4" width="120"><br>
+      <img src="C:\project\finfit\static\images\image5" alt="Team Member 4" width="120"><br>
       <strong>팀원 4 이름</strong><br>
       역할: QA
     </td>
     <td align="center">
-      <img src="path/to/team_member5.png" alt="Team Member 5" width="120"><br>
+      <img src="C:\project\finfit\static\images\image4" alt="Team Member 5" width="120"><br>
       <strong>팀원 5 이름</strong><br>
       역할: 데이터 분석가
-    </td>
-    <td align="center">
-      <img src="path/to/team_member6.png" alt="Team Member 6" width="120"><br>
-      <strong>팀원 6 이름</strong><br>
-      역할: 프로젝트 매니저
     </td>
   </tr>
 </table>

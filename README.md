@@ -50,7 +50,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <table style="margin:0 auto; width:85%;">
   <tr>
     <td align="center" valign="top" style="padding:5px;">
-      <div style="width:120px; height:180px; overflow:hidden; margin:0 auto;">
+      <div style="width:120px; height:200px; overflow:hidden; margin:0 auto;">
         <img src="image.png" style="width:100%; height:100%; object-fit:cover;">
       </div>
       <br>
@@ -58,7 +58,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
       <em># Squat Analysis</em>
     </td>
     <td align="center" valign="top" style="padding:5px;">
-      <div style="width:120px; height:180px; overflow:hidden; margin:0 auto;">
+      <div style="width:120px; height:200px; overflow:hidden; margin:0 auto;">
         <img src="image1.png" style="width:100%; height:100%; object-fit:cover;">
       </div>
       <br>
@@ -66,7 +66,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
       <em># Body Analysis & Exercise Tips</em>
     </td>
     <td align="center" valign="top" style="padding:5px;">
-      <div style="width:120px; height:180px; overflow:hidden; margin:0 auto;">
+      <div style="width:120px; height:200px; overflow:hidden; margin:0 auto;">
         <img src="image3.png" style="width:100%; height:100%; object-fit:cover;">
       </div>
       <br>
@@ -74,7 +74,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
       <em># AI Disease Prediction</em>
     </td>
     <td align="center" valign="top" style="padding:5px;">
-      <div style="width:120px; height:180px; overflow:hidden; margin:0 auto;">
+      <div style="width:120px; height:200px; overflow:hidden; margin:0 auto;">
         <img src="image5.png" style="width:100%; height:100%; object-fit:cover;">
       </div>
       <br>
@@ -82,7 +82,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
       <em># Depression Prediction</em>
     </td>
     <td align="center" valign="top" style="padding:5px;">
-      <div style="width:120px; height:180px; overflow:hidden; margin:0 auto;">
+      <div style="width:120px; height:200px; overflow:hidden; margin:0 auto;">
         <img src="image4.png" style="width:100%; height:100%; object-fit:cover;">
       </div>
       <br>
@@ -91,6 +91,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
   </tr>
 </table>
+
 
 
 

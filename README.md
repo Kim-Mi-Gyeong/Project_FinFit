@@ -45,41 +45,30 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 <br>
 
-## ■  소개 👪
-
 ## ■ 소개 👪
 
 <table style="margin:0 auto; width:85%;">
   <tr>
-    <!-- 1. 이한세 (Michael) -->
     <td align="center" valign="top" style="padding:5px;">
       <img src="image.png" width="80" style="border-radius:50%;"><br><br>
       <strong>이한세 (Michael)</strong><br>
       <em># Squat Analysis</em>
     </td>
-
-    <!-- 2. 김미경 (Mia) -->
     <td align="center" valign="top" style="padding:5px;">
       <img src="image1.png" width="80" style="border-radius:50%;"><br><br>
       <strong>김미경 (Mia)</strong><br>
       <em># Body Analysis & Exercise Tips</em>
     </td>
-
-    <!-- 3. 이준혁 (Simon) -->
     <td align="center" valign="top" style="padding:5px;">
       <img src="image3.png" width="80" style="border-radius:50%;"><br><br>
       <strong>이준혁 (Simon)</strong><br>
       <em># AI Disease Prediction</em>
     </td>
-
-    <!-- 4. 하연우 (Woo) -->
     <td align="center" valign="top" style="padding:5px;">
       <img src="image5.png" width="80" style="border-radius:50%;"><br><br>
       <strong>하연우 (Woo)</strong><br>
       <em># Depression Prediction</em>
     </td>
-
-    <!-- 5. 이기성 (Bradley) -->
     <td align="center" valign="top" style="padding:5px;">
       <img src="image4.png" width="80" style="border-radius:50%;"><br><br>
       <strong>이기성 (Bradley)</strong><br>
@@ -87,7 +76,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
   </tr>
 </table>
-
 
 
 

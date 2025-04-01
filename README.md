@@ -19,11 +19,16 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     <tr>
       <td>프로젝트 목표</td>
       <td>
-        - AI 질병 예측과 그래프로 보는 건강 분석                 <br>
-        - 질병 별 위치기반 병원 매칭 서비스                      <br>
-        - 체형 분석을 통한 건강 맞춤 운동 솔루션 제공             <br>
-        - 검진 데이터 기반 우울증 예측 및 맞춤 정보 제공          <br>
-        - AI 분석을 통한 정확한 운동 자세 교정 서비스
+        - AI 질병 예측과 그래프로 보는 건강 분석    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+             <br>
+        - 질병 별 위치기반 병원 매칭 서비스             <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+         <br>
+        - 체형 분석을 통한 건강 맞춤 운동 솔루션 제공   <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+         <br>
+        - 검진 데이터 기반 우울증 예측 및 맞춤 정보 제공    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <br>
+        - AI 분석을 통한 정확한 운동 자세 교정 서비스<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+
       </td>
     </tr>
   </tbody>

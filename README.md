@@ -7,8 +7,8 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <table>
   <thead>
     <tr>
-      <th style="min-width: 120px;">항목</th>
-      <th style="min-width: 500px;">내용</th>
+      <th style="min-width: 150px;">항목</th>
+      <th style="min-width: 800px;">내용</th>
     </tr>
   </thead>
   <tbody>
@@ -30,6 +30,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </tr>
   </tbody>
 </table>
+
 
 
 <br>

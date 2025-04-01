@@ -7,13 +7,16 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <table>
   <thead>
     <tr>
-      <th>항목</th>
-    
+      <th style="min-width: 120px;">항목</th>
+      <th style="min-width: 500px;">내용</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
       <td>개발 기간 🗓️</td>
-      <td>2025년 2월 24일(월) ~ 2025년 4월 1일(화)</td>
+      <td>
+        2025년 2월 24일(월) ~ 2025년 4월 1일(화)
+      </td>
     </tr>
     <tr>
       <td>프로젝트 목표</td>

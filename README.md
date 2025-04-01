@@ -53,45 +53,48 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 ## 팀원 정보
 
-<table>
+## 팀원 정보
+
+<table style="margin:0 auto; width:80%;">
   <tr>
     <!-- 1. 이한세 (Michael) -->
     <td align="center" valign="top" style="padding:2px;">
-      <img src="image.png" width="70" style="border-radius:50%;"><br>
+      <img src="image.png" width="60" style="border-radius:50%;"><br>
       <strong>이한세 (Michael)</strong><br>
       <em># Squat Analysis</em><br>
       <a href="mailto:hslee7087@gmail.com">hslee7087@gmail.com</a>
     </td>
     <!-- 2. 김미경 (Mia) -->
     <td align="center" valign="top" style="padding:2px;">
-      <img src="image1.png" width="70" style="border-radius:50%;"><br>
+      <img src="image1.png" width="60" style="border-radius:50%;"><br>
       <strong>김미경 (Mia)</strong><br>
       <em># Body Analysis & Exercise Tips</em><br>
       <a href="mailto:fork07140812@gmail.com">fork07140812@gmail.com</a>
     </td>
     <!-- 3. 이준혁 (Simon) -->
     <td align="center" valign="top" style="padding:2px;">
-      <img src="image3.png" width="70" style="border-radius:50%;"><br>
+      <img src="image2.png" width="60" style="border-radius:50%;"><br>
       <strong>이준혁 (Simon)</strong><br>
       <em># AI Disease Prediction</em><br>
       <a href="mailto:arsey99999@gmail.com">arsey99999@gmail.com</a>
     </td>
     <!-- 4. 하연우 (Woo) -->
     <td align="center" valign="top" style="padding:2px;">
-      <img src="/image5.png" width="70" style="border-radius:50%;"><br>
+      <img src="image3.png" width="60" style="border-radius:50%;"><br>
       <strong>하연우 (Woo)</strong><br>
       <em># Depression Prediction</em><br>
       <a href="mailto:woo565696@gmail.com">woo565696@gmail.com</a>
     </td>
     <!-- 5. 이기성 (Bradley) -->
     <td align="center" valign="top" style="padding:2px;">
-      <img src="image4.png" width="70" style="border-radius:50%;"><br>
+      <img src="image4.png" width="60" style="border-radius:50%;"><br>
       <strong>이기성 (Bradley)</strong><br>
       <em># Hospital Recommendations</em><br>
       <a href="mailto:leegisung778899@gmail.com">leegisung778899@gmail.com</a>
     </td>
   </tr>
 </table>
+
 
 
 <br>

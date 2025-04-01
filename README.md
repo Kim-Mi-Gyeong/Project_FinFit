@@ -51,7 +51,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
   <tr>
     <td align="center" valign="top" style="padding:5px;">
       <div style="width:120px; height:200px; overflow:hidden; margin:0 auto; background:#fff;">
-        <img src="static/images/image.png" style="width:100%; height:100%; object-fit:contain;">
+        <img src="image.png" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <br>
       <strong>이한세 (Michael)</strong><br>
@@ -60,7 +60,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     <!-- 나머지 팀원도 동일하게 -->
     <td align="center" valign="top" style="padding:5px;">
       <div style="width:120px; height:200px; overflow:hidden; margin:0 auto; background:#fff;">
-        <img src="image.png" style="width:100%; height:100%; object-fit:contain;">
+        <img src="image1.png" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <br>
       <strong>김미경 (Mia)</strong><br>
@@ -68,7 +68,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
     <td align="center" valign="top" style="padding:5px;">
       <div style="width:120px; height:200px; overflow:hidden; margin:0 auto; background:#fff;">
-        <img src="image1.png" style="width:100%; height:100%; object-fit:contain;">
+        <img src="image3.png" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <br>
       <strong>이준혁 (Simon)</strong><br>
@@ -76,7 +76,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
     <td align="center" valign="top" style="padding:5px;">
       <div style="width:120px; height:200px; overflow:hidden; margin:0 auto; background:#fff;">
-        <img src="image3.png" style="width:100%; height:100%; object-fit:contain;">
+        <img src="image5.png" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <br>
       <strong>하연우 (Woo)</strong><br>
@@ -84,7 +84,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
     <td align="center" valign="top" style="padding:5px;">
       <div style="width:120px; height:200px; overflow:hidden; margin:0 auto; background:#fff;">
-        <img src="image5.png" style="width:100%; height:100%; object-fit:contain;">
+        <img src="image4.png" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <br>
       <strong>이기성 (Bradley)</strong><br>

@@ -80,7 +80,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
     <!-- 4. 하연우 (Woo) -->
     <td align="center" valign="top" style="padding:2px;">
-      <img src="image3.png" width="60" style="border-radius:50%;"><br>
+      <img src="image4.png" width="60" style="border-radius:50%;"><br>
       <strong>하연우 (Woo)</strong><br>
       <em># Depression Prediction</em><br>
       <a href="mailto:woo565696@gmail.com">woo565696@gmail.com</a>

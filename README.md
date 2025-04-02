@@ -150,22 +150,23 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <img src="사용자흐름도(최종).png" alt="FinFit 사용자 흐름도" width="700">
 <br>
 
-## ■  아키텍처
-FINFIT/
-├── models/                   # 학습된 머신러닝 모델 파일 (.pkl)
-├── static/                   # 정적 파일 (CSS, JS, 이미지, CSV 등)
-├── templates/                # HTML 템플릿 (Jinja2)
-├── views/                    # 주요 기능별 Flask 뷰 파일
-│   ├── chatbot_views.py          # ✨ (옵션) Gemini 기반 챗봇 응답 처리
-│   ├── company_views.py          # 소개/회사 관련 페이지
-│   ├── customer_views.py         # 사용자 정보 입력/관리
-│   ├── depression_views.py       # 우울증 예측 기능
-│   ├── disease_views.py          # 질병 예측 기능
-│   ├── exercise_views.py         # 체형 예측 및 운동 추천
-│   ├── hospital_views.py         # 병원 추천 기능
-│   ├── main_views.py             # 메인 페이지, 라우팅 허브
-│   └── squat_views.py            # 실시간 운동 자세 분석 (스쿼트)
-├── __init__.py               # Flask 앱 초기화
+# ■ Architecture
+<h3> ▪ Directory structure</h3><pre>
+📂cosmetic_project/<br>
+│──📂cos/<br>
+│   ├── init.py                       # Flask 애플리케이션 초기화<br>
+│   ├── word2vec_model.py             # Word2Vec 모델 학습 및 로드<br>
+│   ├── 📂data/                       # 화장품 성분 데이터 (CSV 등)<br>
+│   ├── 📂ingrements_faiss_index/     # FAISS 벡터 검색 인덱스 저장소<br>
+│   ├── 📂static/                     # CSS, JS 파일 등 정적 파일<br>
+│   ├── 📂templates/                  # HTML 템플릿<br>
+│   ├── 📂views/                      # Flask 라우팅 및 API 처리<br>
+│   │   ├── visualization_views.py     # 시각화 API<br>
+│   │   ├── search_views.py            # 검색 API (FAISS 기반)<br>
+│   │   ├── chatbot_views.py           # 챗봇 API<br>
+│   │   ├── chart_views.py             # 차트 데이터 API<br>
+│   │   ├── main_views.py              # 메인 페이지 API<br>
+</pre>
 
 </small>
 

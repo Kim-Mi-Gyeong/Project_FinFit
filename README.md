@@ -61,7 +61,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     <td style="padding: 15px;">
       <img src="image1.png" alt="김미경" width="120" height="160"><br><br>
       <strong>김미경 (Mia)</strong><br>
-      <em style="color:#f0a500;"># Body Analysis & Exercise Tips</em>
+      <em style="color:#f0a500;"># Body & Workout</em>
     </td>
     <td style="padding: 15px;">
       <img src="image3.png" alt="이준혁" width="120" height="160"><br><br>
@@ -76,7 +76,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     <td style="padding: 15px;">
       <img src="image4.png" alt="이기성" width="120" height="160"><br><br>
       <strong>이기성 (Bradley)</strong><br>
-      <em style="color:#f0a500;"># Hospital Recommendations</em>
+      <em style="color:#f0a500;"># Hospital Match</em>
     </td>
   </tr>
 </table>

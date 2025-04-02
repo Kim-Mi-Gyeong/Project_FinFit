@@ -144,11 +144,9 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
-
 ## ■ 데이터 흐름도, 사용자 흐름도 🧭
 
 <img src="사용자흐름도(최종).png" alt="FinFit 사용자 흐름도" width="700">
-<br>
 
 # ■ Architecture
 <h3> ▪ Directory structure</h3><pre>

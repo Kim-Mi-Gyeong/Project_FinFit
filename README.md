@@ -1,7 +1,10 @@
 <small>
 
-## 🧠 Mental Health AI Demo
-<img src="https://github.com/your-repo-name/assets/파일ID/파일명.gif" width="700"/>
+### 🧠 AI 기반 우울증 예측 리포트
+<img src="https://github.com/your-repo/assets/123456/bg6.gif" width="700"/>
+
+> 실시간 설문 분석 및 수면시간 기반 우울증 단계 분류 + SHAP 기반 원인 시각화
+
 
 # ■ FinFit - 개인 맞춤형 헬스케어 서비스 
 

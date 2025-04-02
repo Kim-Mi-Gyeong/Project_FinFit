@@ -1,6 +1,6 @@
 <small>
 
-## AI Mental Health Animation
+## 프로젝트명: Fin_Fit
 
 <img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/bg6-ezgif.com-video-to-gif-converter.gif" width="720"/>
 

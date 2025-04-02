@@ -151,8 +151,8 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 # ■ Architecture 
 <pre>
   
-📂cosmetic_project/<br>
-│──📂cos/<br>
+📂project/<br>
+│──📂finfit/<br>
 │   ├── init.py                       # Flask 애플리케이션 초기화<br>
 │   ├── word2vec_model.py             # Word2Vec 모델 학습 및 로드<br>
 │   ├── 📂data/                       # 화장품 성분 데이터 (CSV 등)<br>

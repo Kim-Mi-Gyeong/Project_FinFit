@@ -1,6 +1,6 @@
 <small>
 
-### 🧠 AI Mental Health Animation
+## AI Mental Health Animation
 
 <img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/bg6-ezgif.com-video-to-gif-converter.gif" width="720"/>
 

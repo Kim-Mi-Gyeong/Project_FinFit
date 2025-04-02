@@ -183,7 +183,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ### 5. 병원 추천 시스템
 - 지역 기반 병원 자동 매칭
 - 조건 만족 시 내과 병원 5곳 추천
-- 📸 스크린샷 or GIF 삽입
+<img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/asdfasdfsdfasdfsadfsdf.gif" width="720"/>
 
 
 ## ■ Service Flow Diagram

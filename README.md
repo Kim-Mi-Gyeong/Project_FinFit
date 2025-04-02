@@ -53,43 +53,44 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 <table style="width: 100%; table-layout: fixed; border-spacing: 0; text-align: center;">
   <tr>
-    <td style="width: 20%; padding: 20px; vertical-align: middle;">
+    <td style="width: 20%; padding: 10px; vertical-align: middle;">
       <div>
-        <img src="image.png" alt="이한세" width="140" height="180"><br><br>
+        <img src="image.png" alt="이한세" width="160" height="200"><br><br>
         <strong>이한세 (Michael)</strong><br>
         <em style="color:#f0a500;"># Squat Analysis</em>
       </div>
     </td>
-    <td style="width: 20%; padding: 20px; vertical-align: middle;">
+    <td style="width: 20%; padding: 10px; vertical-align: middle;">
       <div>
-        <img src="image1.png" alt="김미경" width="140" height="180"><br><br>
+        <img src="image1.png" alt="김미경" width="160" height="200"><br><br>
         <strong>김미경 (Mia)</strong><br>
         <em style="color:#f0a500;"># Body & Workout</em>
       </div>
     </td>
-    <td style="width: 20%; padding: 20px; vertical-align: middle;">
+    <td style="width: 20%; padding: 10px; vertical-align: middle;">
       <div>
-        <img src="image3.png" alt="이준혁" width="140" height="180"><br><br>
+        <img src="image3.png" alt="이준혁" width="160" height="200"><br><br>
         <strong>이준혁 (Simon)</strong><br>
         <em style="color:#f0a500;"># Disease Risk Analysis</em>
       </div>
     </td>
-    <td style="width: 20%; padding: 20px; vertical-align: middle;">
+    <td style="width: 20%; padding: 10px; vertical-align: middle;">
       <div>
-        <img src="image5.png" alt="하연우" width="140" height="180"><br><br>
+        <img src="image5.png" alt="하연우" width="160" height="200"><br><br>
         <strong>하연우 (Woo)</strong><br>
         <em style="color:#f0a500;"># Mental Health Check</em>
       </div>
     </td>
-    <td style="width: 20%; padding: 20px; vertical-align: middle;">
+    <td style="width: 20%; padding: 10px; vertical-align: middle;">
       <div>
-        <img src="image4.png" alt="이기성" width="140" height="180"><br><br>
+        <img src="image4.png" alt="이기성" width="160" height="200"><br><br>
         <strong>이기성 (Bradley)</strong><br>
         <em style="color:#f0a500;"># Hospital Match</em>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 <br>

@@ -33,9 +33,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
   </tbody>
 </table>
 
-
-<br>
-
 ## ■ 목차 📚
 1. 소개  
 2. 프로젝트 진행 관리  
@@ -44,8 +41,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 5. 데이터 흐름도 및 사용자 흐름도  
 6. 아키텍처  
 7. How to Test
-
-<br>
 
 <h2>■ 소개 🧑‍🤝‍🧑</h2>
 
@@ -89,8 +84,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
   </tr>
 </table>
 
-<br>
-
 ## ■  주요 기능 및 담당 업무 🤖 
 
 | 주요 기능               | 설명 | 담당자 |
@@ -101,9 +94,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 | 체형 예측 및 운동 추천 | - 입력된 키와 몸무게를 기반으로 BMI를 계산한 뒤, **Random Forest 기반 BMI 분류기**로 체형을 분류 <br> - 체형에 따라 운동 효과(근력/체중조절 등), 난이도 필터링을 통해 맞춤형 운동 영상을 추천 <br> - 도넛 차트, conic-gradient 애니메이션, 체형 아이콘 등 다양한 시각화 | Mia |
 | 운동 자세 교정         | - 사용자의 실시간 웹캠 영상에서 **Mediapipe pose detection 모델**로 관절 좌표를 추출하고, 무릎-발끝 정렬, 각도 계산 등 기준에 따라 스쿼트 정확도를 분석 <br> - 동작 오류 발생 시 **Gemini 피드백**과 **TTS 음성 안내**를 제공 | Michael |
 | 챗봇 (Fit봇)           | - 페이지별로 등록된 **키워드 기반 응답 사전**(page_responses)을 우선 활용하며, 해당 키워드가 없을 경우 **Gemini API**(gemini-1.5-flash)를 호출해 페이지 맥락에 맞는 실시간 LLM 응답을 생성 <br> - 핵심만 간결하게 설명하는 프롬프트 설계로 사용자 피로도를 줄이고 기능/결과 해석/건강 가이드를 실시간 제공 | Simon, Bradley |
-
-<br>
-
 
 
 ## ■  프로젝트 진행 관리 📊
@@ -150,7 +140,6 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
-<br>
 
 ## 데이터 흐름도, 사용자 흐름도 🔄
 > 사용자 행동경로와 데이터기반 모델흐름, URL구조를 정리한 것입니다.

@@ -151,7 +151,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <br>
 
 # ■ Architecture
-<h3> ▪ Directory structure</h3><pre>
+
 📂cosmetic_project/<br>
 │──📂cos/<br>
 │   ├── init.py                       # Flask 애플리케이션 초기화<br>

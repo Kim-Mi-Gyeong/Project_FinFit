@@ -43,7 +43,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 7. Directory 
 8. How to Test
 
-<h2>■ 소개 🧑‍🤝‍🧑</h2>
+<h2> ■ 소개 🧑‍🤝‍🧑</h2>
 
 <table style="width: 100%; table-layout: fixed; border-spacing: 0; text-align: center;">
   <tr>
@@ -145,7 +145,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
 
-## 데이터 흐름도, 사용자 흐름도 🧭
+## ■ 데이터 흐름도, 사용자 흐름도 🧭
 
 <img src="사용자흐름도(최종).png" alt="FinFit 사용자 흐름도" width="700">
 <br>

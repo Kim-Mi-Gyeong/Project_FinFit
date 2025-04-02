@@ -145,7 +145,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
 
-## ■ 기능 구현 🧩
+## ■ 기능 구현 
 
 ### 1. 사용자 정보 입력 페이지
 - 성별, 연령, 키/몸무게, 지역 입력

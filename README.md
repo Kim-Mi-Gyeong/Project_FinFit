@@ -66,12 +66,12 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     <td style="width: 20%; padding: 10px;">
       <img src="image3.png" alt="이준혁" width="120" height="160"><br><br>
       <strong>이준혁 (Simon)</strong><br>
-      <em style="color:#f0a500;">Disease Prediction</em>
+      <em style="color:#f0a500;"># Disease Prediction</em>
     </td>
     <td style="width: 20%; padding: 10px;">
       <img src="image5.png" alt="하연우" width="120" height="160"><br><br>
       <strong>하연우 (Woo)</strong><br>
-      <em style="color:#f0a500;">Mental Health Check</em>
+      <em style="color:#f0a500;"># Mental Health Check</em>
     </td>
     <td style="width: 20%; padding: 10px;">
       <img src="image4.png" alt="이기성" width="120" height="160"><br><br>

@@ -151,8 +151,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <br>
 
 ## ■  아키텍처
-
-### ▪ Directory 구조
+FINFIT/ ├── models/ # 학습된 머신러닝 모델 (.pkl) ├── static/ # 정적 파일 (CSS, JS, 이미지, CSV 등) ├── templates/ # Jinja2 HTML 템플릿 ├── views/ # 주요 기능별 Flask 라우트 모듈 │ ├── chatbot_views.py # 🤖 Gemini 챗봇 응답 처리 │ ├── company_views.py # 🏢 회사 소개 / 프로젝트 설명 페이지 │ ├── customer_views.py # 👤 사용자 정보 입력 및 관리 │ ├── depression_views.py # 🧠 우울증 예측 (PHQ-9 + 수면 분석) │ ├── disease_views.py # 💉 질병 예측 (유병률 + 암 위험도) │ ├── exercise_views.py # 🧬 체형 예측 및 운동 추천 │ ├── hospital_views.py # 🏥 병원 추천 (지역 기반 내과 매칭) │ ├── main_views.py # 🚪 메인 페이지 및 라우팅 허브 │ └── squat_views.py # 🏋 실시간 스쿼트 자세 분석 (MediaPipe) ├── init.py # Flask 앱 초기화 ├── config.py # DB 및 API 설정 ├── run.py # 서버 실행용 엔트리 포인트 └── README.md # 프로젝트 소개 문서
 
 </small>
 

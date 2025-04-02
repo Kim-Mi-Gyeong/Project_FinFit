@@ -148,7 +148,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 <img src="사용자흐름도(최종).png" alt="FinFit 사용자 흐름도" width="700">
 
-# ■ Architecture
+# ■ Architecture 🗂️
 <pre>
   
 📂cosmetic_project/<br>

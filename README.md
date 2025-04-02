@@ -1,6 +1,6 @@
 <small>
 
-# ■ FinFit - 개인 맞춤형 헬스케어 서비스 💪
+# ■ FinFit - 개인 맞춤형 헬스케어 서비스 
 
 FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자의 건강 상태를 정밀 분석하고 맞춤형 솔루션을 제공하는 스마트 헬스케어 서비스를 제공합니다. 또한, 바쁜 현대인을 위해 생활 습관 개선부터 병원 연계까지 체계적인 건강 관리 시스템을 제공하여, 누구나 쉽게 건강을 유지하고 더 나은 미래를 준비할 수 있도록 지원합니다. <br>
 
@@ -13,7 +13,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
   </thead>
   <tbody>
     <tr>
-      <td>개발 기간 🗓️</td>
+      <td>개발 기간</td>
       <td>
         2025년 2월 24일(월) ~ 2025년 4월 1일(화)
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,17 +33,17 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
   </tbody>
 </table>
 
-## ■ 목차 📚
+## ■ 목차 
 1. 소개  
-2. 기능별 상세 요약
-3. 프로젝트 진행 관리
-4. Stacks 
-5. 기능 구현   
-6. 데이터 흐름도, 사용자 흐름도
-7. Directory 
+2. 기능별 요약  
+3. 프로젝트 진행 관리  
+4. Stacks  
+5. 기능 구현  
+6. 데이터 & 사용자 흐름도  
+7. Architecture  
 8. How to Test
 
-<h2> ■ 소개 🧑‍🤝‍🧑</h2>
+<h2> ■ 소개 </h2>
 
 <table style="width: 100%; table-layout: fixed; border-spacing: 0; text-align: center;">
   <tr>
@@ -85,7 +85,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
   </tr>
 </table>
 
-## ■ 기능별 상세 요약 🔍
+## ■ 기능별 상세 요약 
 
 | 기능 | 설명 |
 |------|------|
@@ -96,11 +96,11 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 |병원 추천 | 사용자 건강검진 데이터를 기반으로 **질병 유무(당뇨, 고지혈증, 고혈압)를 예측**하고, 위험이 감지되면 **사용자 지역(city, town) 내 '내과' 병원 5곳을 자동 추천**합니다.<br>추천 정보에는 **병원명, 주소, 전화번호, 위도·경도**가 포함되며, **CSV 기반 병원 정보 + 시각적 위치 연동(Naver 지도 API)** 기능도 함께 구성되어 있습니다. |
 
 
-## ■  프로젝트 진행 관리 📊
+## ■  프로젝트 진행 관리 
 
 ![image](https://github.com/user-attachments/assets/7a16587a-5eb2-4be4-bfa9-fa67d59f96f1)
 
-## ■ Stacks 🛠️
+## ■ Stacks 
 
 ### Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -144,12 +144,12 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
-## ■ 데이터 흐름도, 사용자 흐름도 🧭
+## ■ 데이터 흐름도, 사용자 흐름도 
 
 <img src="사용자흐름도(최종).png" alt="FinFit 사용자 흐름도" width="700">
 
-# ■ Architecture
-<h3> ▪ Directory structure</h3><pre>
+# ■ Architecture 
+<pre>
   
 📂cosmetic_project/<br>
 │──📂cos/<br>
@@ -167,22 +167,21 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 │   │   ├── main_views.py              # 메인 페이지 API<br>
 </pre>
 
-## ■ How to Test 🧪
+## ■ How to Test 
 
-> 아래 테스트는 `Flask` 서버 실행 후 `http://localhost:5000` 접속 시 확인할 수 있습니다.
+> 아래 테스트는 Flask 서버 실행 후 http://localhost:5000 접속 시 확인할 수 있습니다.
 
 | 테스트 항목 | 경로 | 주요 확인 내용 |
 |-------------|------|----------------|
-| 메인 페이지 | `/` | 전체 기능 링크 및 UI 연결 확인 |
-| 사용자 정보 입력 | `/customer` | 성별·나이·키·몸무게·도시·지역 입력 후 DB 저장 |
-| 스쿼트 분석 | `/squat` | 웹캠 기반 실시간 자세 추적 + 반복 수·피드백 확인 |
-| 체형 예측 & 운동 추천 | `/exercise` | BMI 기반 체형 분류 + 난이도별 운동 영상 추천 |
-| 질병 예측 | `/disease` | 당뇨·고혈압·고지혈증 예측 그래프 + 암 위험도 시각화 |
-| 우울증 예측 | `/depression` | PHQ-9 기반 우울 단계 분석 + 수면 차트, AI 코멘트 확인 |
-| 병원 추천 | `/hospital` | 지역 내 질병별 내과 병원 자동 추천 (Naver 지도 연동) |
+| 메인 페이지 | / | 전체 기능 링크 및 UI 연결 확인 |
+| 사용자 정보 입력 | /customer | 성별·나이·키·몸무게·도시·지역 입력 후 DB 저장 |
+| 스쿼트 분석 | /squat | 웹캠 기반 실시간 자세 추적 + 반복 수·피드백 확인 |
+| 체형 예측 & 운동 추천 | /exercise | BMI 기반 체형 분류 + 난이도별 운동 영상 추천 |
+| 질병 예측 | /disease | 당뇨·고혈압·고지혈증 예측 그래프 + 암 위험도 시각화 |
+| 우울증 예측 | /depression | PHQ-9 기반 우울 단계 분석 + 수면 차트, AI 코멘트 확인 |
+| 병원 추천 | /hospital | 지역 내 질병별 내과 병원 자동 추천 (Naver 지도 연동) |
 
-🧩 모든 테스트는 가상환경(`venv`)에서 Flask 실행 후, 브라우저 기반으로 진행합니다.
+🧩 모든 테스트는 가상환경(venv)에서 Flask 실행 후, 브라우저 기반으로 진행합니다.
 
 
 </small>
-

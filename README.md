@@ -7,25 +7,26 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <table>
   <thead>
     <tr>
-      <th style="min-width: 150px;">항목</th>
-      <th style="min-width: 800px;">내용</th>
+      <th>항목</th>
+      <th>내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>개발 기간 🗓️</td>
       <td>
-        2025년 2월 24일(월) ~ 2025년 4월 1일(화)<br><br><br><br><br><br><br><br><br><br>
+        2025년 2월 24일(월) ~ 2025년 4월 1일(화)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
     </tr>
     <tr>
       <td>프로젝트 목표</td>
       <td>
-        - AI 질병 예측과 그래프로 보는 건강 분석<br><br>
-        - 질병 별 위치기반 병원 매칭 서비스<br><br>
-        - 체형 분석을 통한 건강 맞춤 운동 솔루션 제공<br><br>
-        - 검진 데이터 기반 우울증 예측 및 맞춤 정보 제공<br><br>
-        - AI 분석을 통한 정확한 운동 자세 교정 서비스<br><br><br><br><br><br><br><br><br><br>
+        - AI 질병 예측과 그래프로 보는 건강 분석<br>
+        - 질병 별 위치기반 병원 매칭 서비스<br>
+        - 체형 분석을 통한 건강 맞춤 운동 솔루션 제공<br>
+        - 검진 데이터 기반 우울증 예측 및 맞춤 정보 제공<br>
+        - AI 분석을 통한 정확한 운동 자세 교정 서비스
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
     </tr>
   </tbody>

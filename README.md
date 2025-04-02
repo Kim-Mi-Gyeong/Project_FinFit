@@ -1,5 +1,10 @@
 <small>
 
+### 🧠 AI Mental Health Animation
+
+<img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/bg6-ezgif.com-video-to-gif-converter.gif" width="720"/>
+
+
 # ■ FinFit - 개인 맞춤형 헬스케어 서비스 
 
 FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자의 건강 상태를 정밀 분석하고 맞춤형 솔루션을 제공하는 스마트 헬스케어 서비스를 제공합니다. 또한, 바쁜 현대인을 위해 생활 습관 개선부터 병원 연계까지 체계적인 건강 관리 시스템을 제공하여, 누구나 쉽게 건강을 유지하고 더 나은 미래를 준비할 수 있도록 지원합니다. <br>

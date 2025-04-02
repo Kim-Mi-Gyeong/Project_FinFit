@@ -144,6 +144,43 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
+
+## ■ 기능 구현 🧩
+
+### 1. 사용자 정보 입력 페이지
+- 성별, 연령, 키/몸무게, 지역 입력
+- BMI 자동 계산 및 저장
+- 📸 스크린샷 or GIF 삽입
+
+---
+
+### 2. 스쿼트 분석 페이지
+- Mediapipe 기반 실시간 자세 추적
+- 무릎 각도 측정 및 반복 수 카운트
+- 📸 스크린샷 or GIF 삽입
+
+---
+
+### 3. 체형 예측 및 운동 추천
+- 체형 예측 (RandomForest 기반)
+- 운동 목적/난이도별 추천 영상 필터링
+- 📸 스크린샷 or GIF 삽입
+
+---
+
+### 4. 질병 예측 페이지
+- 건강검진 데이터 기반 질병 확률 예측
+- 2D/3D 시각화 + 암 리스크 분석 포함
+- 📸 스크린샷 or GIF 삽입
+
+---
+
+### 5. 병원 추천 시스템
+- 지역 기반 병원 자동 매칭
+- 조건 만족 시 내과 병원 5곳 추천
+- 📸 스크린샷 or GIF 삽입
+
+
 ## ■ Service Flow Diagram
 
 <img src="사용자흐름도(최종).png" alt="FinFit 사용자 흐름도" width="700">

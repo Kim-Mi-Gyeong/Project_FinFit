@@ -1,9 +1,8 @@
 <small>
-
-## ■ 프로젝트명: FinFit
+  
+## ■ 프로젝트 미리보기
 
 <img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/FinFit-Chrome2025-04-0213-57-31-ezgif.com-video-to-gif-converter.gif" width="720"/>
-
 
 
 # ■ FinFit - 개인 맞춤형 헬스케어 서비스 

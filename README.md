@@ -1,6 +1,6 @@
 <small>
   
-## ■ 프로젝트명: FinFit
+# ■ 프로젝트명: FinFit
 
 <img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/FinFit-Chrome2025-04-0213-57-31-ezgif.com-video-to-gif-converter.gif.gif" width="720"/>
 
@@ -175,7 +175,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 ### 4. 체형 예측 및 운동 추천
 - 체형 예측 (RandomForest 기반)
-- 운동 효과/난이도별 추천 영상 필터링
+- 운동 목적/난이도별 추천 영상 필터링
 <img src="https://github.com/Michael-Lee213/Project_FinFit/raw/main/KakaoTalk_20250402_182621565_01.gif" width="720"/>
 
 ---

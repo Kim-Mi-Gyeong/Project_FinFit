@@ -102,7 +102,7 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 
 ## ■  프로젝트 진행 관리 
 
-![image](https://github.com/user-attachments/assets/7a16587a-5eb2-4be4-bfa9-fa67d59f96f1)
+<img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/Project_FinFit/raw/main/프로젝트 진행관리.png" alt="프로젝트 진행 관리">
 
 ## ■ Stacks 
 

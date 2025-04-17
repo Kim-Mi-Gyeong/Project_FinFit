@@ -132,19 +132,17 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 <br>
 ![RandomForest](https://img.shields.io/badge/RandomForest-005f73?style=flat)
-![SHAP](https://img.shields.io/badge/SHAP-FFA500?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-F7931E?style=flat)
 
 ### API & External Services
 ![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat&logo=youtube&logoColor=white)
 ![Naver API](https://img.shields.io/badge/Naver_API-03C75A?style=flat)
-![Gemini API](https://img.shields.io/badge/Google_Generative_AI-4285F4?style=flat&logo=google&logoColor=white)
-![Tenacity](https://img.shields.io/badge/Tenacity-4A90E2?style=flat)
+![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+
 
 ### Dev Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![venv](https://img.shields.io/badge/venv-3C3C3C?style=flat&logo=python&logoColor=white)
 
